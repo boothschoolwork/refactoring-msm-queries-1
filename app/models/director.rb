@@ -11,4 +11,9 @@
 #  updated_at :datetime         not null
 #
 class Director < ApplicationRecord
+
+
+  def filmography
+  end
+  
 end
